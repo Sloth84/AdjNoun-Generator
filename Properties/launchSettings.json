@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AdjNoun-Generator": {
+      "commandName": "Project",
+      "remoteDebugEnabled": false
+    }
+  }
+}
