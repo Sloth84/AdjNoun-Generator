@@ -25,8 +25,6 @@ namespace AdjNoun_Generator
         {
             // Arguments
 
-            args = ["-status"];
-
             if (args.Contains("-help") || args.Contains("-h"))
             {
                 Console.WriteLine("\t\t-*-Options-*-\n" +
